@@ -1,2 +1,6 @@
 # GTA 5 Stunt Prop YTYP Fix
- FIxed YTYP files for stunt props
+ Fixed YTYP files for stunt props
+ 
+ Add the folder as a resource in FiveM and it will fix the props not showing up.
+ 
+ It's basically magic! 🧙
